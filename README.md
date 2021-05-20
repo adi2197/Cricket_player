@@ -1,2 +1,2 @@
 # Cricket_player
-Tells you which player you look like 
+it is based on the cricket dataset and this project and evaluate which cricket player you look closest to
